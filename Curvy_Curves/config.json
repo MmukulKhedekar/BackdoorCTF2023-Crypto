@@ -1,0 +1,9 @@
+{
+    "chall_name":"Curvy_Curves",
+    "min_points":100,
+    "max_points":500,
+    "author":"cYb0rg",
+    "flag": "flag{pHUCk_150M0rPh15m_1n70_p2}",
+    "type":"crypto",
+    "description": "I hope my brand new encryption scheme is secure. Or is it?"
+}

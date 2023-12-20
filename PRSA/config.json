@@ -1,0 +1,9 @@
+{
+    "chall_name":"PRSA",
+    "min_points":50,
+    "max_points":200,
+    "author":"kh4rg0sh",
+    "flag": "flag{S0_1mPL3m3n71nG_R54_0n_P0lYn0m1aL5_1n5734d_d1dn7_w0rk_hUh!!?}",
+    "type":"crypto",
+    "description":"Yesterday, as I strolled alongside the riverside, a brilliant idea suddenly dawned on me: why not implement the RSA algorithm on polynomials? Sounds secure enough, at least in my estimation"
+}

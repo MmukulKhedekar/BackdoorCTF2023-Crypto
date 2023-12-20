@@ -1,0 +1,7 @@
+version: '2'
+services:
+  pwn:
+    build: .
+    ports:
+      - "10001:10001"
+    container_name: Baby_Formatter

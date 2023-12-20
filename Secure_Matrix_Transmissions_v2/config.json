@@ -1,0 +1,9 @@
+{
+    "chall_name":"Secure_Matrix_Transmissions_v2",
+    "min_points":50,
+    "max_points":200,
+    "author":"kh4rg0sh",
+    "flag": "flag{In53cUr3_n0n-4b3L14n_d1Ff13_H31Lm4N!}",
+    "type":"crypto",
+    "description":"Uhh, i didnt expect that to be faulty. Well, Eve got me good there and i guess i'll have to look out for some other secure encryption protocols. Welp, i'll let Bob know that and ask him for the new flag, i suppose?"
+}

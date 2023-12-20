@@ -1,0 +1,9 @@
+{
+    "chall_name":"Knapsack",
+    "min_points":100,
+    "max_points":300,
+    "author":"L3G10N",
+    "type":"crypto",
+    "flag":"flag{N0t_r34dy_f0r_M3rkl3-H3llman}",
+    "description":"I have encrypted the flag with a secret. I can't tell you the secret but I have left you a hint in the script."
+}

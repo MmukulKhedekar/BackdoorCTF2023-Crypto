@@ -1,0 +1,9 @@
+{
+    "chall_name":"Rebellious",
+    "min_points":100,
+    "max_points":500,
+    "author":"kh4rg0sh",
+    "flag": "flag{gR0uP_150M0rPH15m5_4R3_g0NN4_b3_7h3_3nD_0f_y0Ur_L1f3!}",
+    "type":"crypto",
+    "description": "bro whats the deal with these elliptic curves? i dont like them and well personally i have some other favourite curves. you know what, i feel offended and im gonna do what i feel like."
+}

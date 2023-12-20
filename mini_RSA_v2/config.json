@@ -1,0 +1,9 @@
+{
+    "chall_name":"mini_RSA_v2",
+    "flag":"flag{I_4m_5tuck_0n_Th3_pl4n3t_Eg0_s4ve_M3}",
+    "min_points":100,
+    "max_points":250,
+    "author":"Gr00t",
+    "type":"crypto",
+    "description":"The last message was to check if you know RSA or nah. Turns out that you do, so i can send you some more messages. Well, in this message i'll reveal my location to you so that you can come and save me"
+}

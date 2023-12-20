@@ -1,0 +1,9 @@
+{
+    "chall_name":"Something_in_Common",
+    "min_points":50,
+    "max_points":100,
+    "author":"L3G10N",
+    "type":"crypto",
+    "flag":"flag{Wh4t_d0_y0u_m34n_1t_h4s_t0_b3_co-pr1m3}",
+    "description":"Encrypting once isn't safe enough, so I encrypted the flag 7 times. Good luck trying to decrypt it."
+}

@@ -1,0 +1,9 @@
+{
+    "chall_name":"Secure_Matrix_Transmissions",
+    "min_points":50,
+    "max_points":200,
+    "author":"kh4rg0sh",
+    "flag": "flag{In53cUr3_K3Y_3xch4ng3_0n_n0n-4b3L14n_gR0up5!!}",
+    "type":"crypto",
+    "description":"The last time i met Bob, i wanted to ask him for the flag. But i couldnt get an opportunity due to Eve constantly hanging around. So i decided to use this brilliant scheme that could help Bob transmit the flag to me securely!"
+}

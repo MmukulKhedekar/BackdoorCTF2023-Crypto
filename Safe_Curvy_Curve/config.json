@@ -1,0 +1,9 @@
+{
+    "chall_name": "Safe Curvy Curve",
+    "min_points": 100,
+    "max_points": 500,
+    "author": "cYb0rg",
+    "flag": "flag{p+1_factor_AND_150M0rPh15m_1n70_p2}",
+    "type": "crypto",
+    "description": "Now it's intended..."
+}

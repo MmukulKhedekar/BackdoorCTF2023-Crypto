@@ -1,0 +1,7 @@
+version: '2'
+services:
+  pwn:
+    build: .
+    ports:
+      - "8009:8009"
+    container_name: Not_so_guessy

@@ -1,0 +1,9 @@
+{
+    "chall_name":"ColL3g10n",
+    "min_points":100,
+    "max_points":300,
+    "author":"L3G10N",
+    "type":"crypto",
+    "flag":"flag{S0m3_b1ts_y0u_kn0w_S0m3_b1ts_y0u_d0nt}",
+    "description":"Hashes are really facsinating to me, especially their collisions. If you give me 2 different messages that make it through my hash collision check, I will reveal a part of my secret. If you can guess my secret I will give you the flag. P.S. My secret changes every time."
+}
